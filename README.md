@@ -7,10 +7,10 @@ source .venv/bin/activate
 which python
 python3 -m pip install --upgrade pip
 
-model_path = https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
-Kaggle Datatset link = https://www.kaggle.com/datasets/harshsinghal/nlp-and-llm-related-arxiv-papers
-Embedding Model: https://huggingface.co/BAAI/bge-base-en-v1.5
-Hugging Face(ChatInterface) -> https://www.gradio.app/docs/chatinterface
+- model_path = https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
+- Kaggle Datatset link = https://www.kaggle.com/datasets/harshsinghal/nlp-and-llm-related-arxiv-papers
+- Embedding Model: https://huggingface.co/BAAI/bge-base-en-v1.5
+- Hugging Face(ChatInterface) -> https://www.gradio.app/docs/chatinterface
 
 Steps:
 1. Creating a virtual environment managing the dependencies.
