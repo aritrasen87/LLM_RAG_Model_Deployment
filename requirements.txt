@@ -1,0 +1,17 @@
+torch==2.1
+transformers==4.34.0
+ctransformers
+gradio
+fastapi
+uvicorn
+python-dotenv
+langchain
+chromadb
+pypdf
+pypdf2
+sentence_transformers
+tiktoken
+tqdm
+together
+langchain-together
+langchain_community
